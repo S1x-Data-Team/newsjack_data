@@ -1,5 +1,6 @@
-    Accountancy
-    , Admin / Secretarial / PA,
+    steps: 
+    - Accountancy
+    - Admin / Secretarial / PA,
     Agriculture / Fishing / Forestry,
     Architecture,
     Automotive,
