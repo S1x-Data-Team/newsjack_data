@@ -1,41 +1,41 @@
-    steps: 
-    - Accountancy
-    - Admin / Secretarial / PA,
-    Agriculture / Fishing / Forestry,
-    Architecture,
-    Automotive,
-    Call / Contact Centres,
-    Biotechnology / Life Sciences,
-    Cleaning / Domestic / Caretaking,
-    Construction / Trades,
-    Property,
-    Education / Teaching,
-    Customer Services,
-    Emergency Services / Military / Security,
-    Engineering / Technical,
-    Financial Services / Investment,
-    Executive / Management,
-    Hairdressing / Beauty,
-    IT / Telecommunications,
-    Charity / Voluntary,
-    Marketing / PR,
-    Sales,
-    Hospitality / Catering / Tourism,
-    HR / Training / Recruitment,
-    Insurance,
-    Legal,
-    Logistics / Distribution
-    Leisure / Sport / Entertainment
-    Driving,
-    Media / Design,
-    Medical / Dental / Health Care,
-    Oil / Gas,
-    Production / Manufacturing,
-    Procurement,
-    Retail,
-    Social Services / Housing,
-    Childcare,
-    Scientific,
-    Heritage / Culture / Library,
-    Product Management,
-    Project Management
+categories:
+  - name: Accountancy
+  - name: Admin / Secretarial / PA
+  - name: Agriculture / Fishing / Forestry
+  - name: Architecture
+  - name: Automotive
+  - name: Call / Contact Centres
+  - name: Biotechnology / Life Sciences
+  - name: Cleaning / Domestic / Caretaking
+  - name: Construction / Trades
+  - name: Property
+  - name: Education / Teaching
+  - name: Customer Services
+  - name: Emergency Services / Military / Security
+  - name: Engineering / Technical
+  - name: Financial Services / Investment
+  - name: Executive / Management
+  - name: Hairdressing / Beauty
+  - name: IT / Telecommunications
+  - name: Charity / Voluntary
+  - name: Marketing / PR
+  - name: Sales
+  - name: Hospitality / Catering / Tourism
+  - name: HR / Training / Recruitment
+  - name: Insurance
+  - name: Legal
+  - name: Logistics / Distribution
+  - name: Leisure / Sport / Entertainment
+  - name: Driving
+  - name: Media / Design
+  - name: Medical / Dental / Health Care
+  - name: Oil / Gas
+  - name: Production / Manufacturing
+  - name: Procurement
+  - name: Retail
+  - name: Social Services / Housing
+  - name: Childcare
+  - name: Scientific
+  - name: Heritage / Culture / Library
+  - name: Product Management
+  - name: Project Management
